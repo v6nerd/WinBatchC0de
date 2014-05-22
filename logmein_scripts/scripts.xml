@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scripts version="2.0">
+	<script>
+		<name>SETUP AgileC0nnect v2</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\agile_setup.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Repair ChannelViewer - 32bit</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\ChannelViewer_x86.cmd</file>
+		<resource>E:\Dropbox\stuff_done_@Work\logmein_scripts\RepairEsupportx86.zip</resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Repair Channel Viewer - 64bit</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\ChannelViewer_x64.cmd</file>
+		<resource>E:\Dropbox\stuff_done_@Work\logmein_scripts\RepairEsupportx64.zip</resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>ESDIII Fix</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\ESDIII_Fix.cmd</file>
+		<resource>E:\Dropbox\stuff_done_@Work\logmein_scripts\ESDIII_Fix.zip</resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Internet Explorer Cleanup/Reset</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\IE_Cleanup.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>P&amp;G Proxy SETUP</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\IE_Proxy_Fix.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>P&amp;G Proxy SETUP (VPN Connection)</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\IE_Proxy_Fix_wVPN.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>MS LYNC Startup FIX</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\LYNC_startup_fix.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>P&amp;G Custom DNS SETUP (VPN Connection)</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\dns_custom_pg_ip.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>BITLOCKER Frequent Prompt FIX</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\BITLOCKER_freq_prompt_fix.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Frequent Lockout Pre-Fix - OneClick</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\FrequentLockout_OneClick_Pre_Fix.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Excel VB Compile Error Fix</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Excel_CompileError_fix.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Launch MYPASSWORD on User's Machine</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Launch_mypassword.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>PRINT Spool (Unable to start) FIX</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Print_Spool_Fix.cmd</file>
+		<resource>E:\Dropbox\stuff_done_@Work\logmein_scripts\spool_monitors_default.zip</resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Network Interface - SET Auto IP/DNS</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Network_set_auto_ip_dns.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Clean Windows Stored Credentials</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Win_Password_cleanup.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Avaya VPN 10 - BANNER Issue FIX</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\vpn_fix_BANNER_issues.cmd</file>
+		<resource>E:\Dropbox\stuff_done_@Work\logmein_scripts\devcon_exec.zip</resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Avaya VPN 10 - Fix DNS Suffix Entries</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\vpn_fix_DNS_suffix.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Avaya VPN 10 - Install (Offline mode)</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\vpn_install_avaya_offline.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Avaya VPN 10 - Restore Tunnel Configurations</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\vpn_restore_tunnel_config.cmd</file>
+		<resource>E:\Dropbox\stuff_done_@Work\logmein_scripts\nvc_profile.zip</resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Avaya VPN 10 - SET Custom DNS Metric</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\vpn_set_custom_METRIC.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Avaya VPN 10 - Check/Start VPN Services</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\vpn_SVC_check.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Avaya VPN 10 - Uninstall</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\vpn_uninstall_avaya_v10.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Novell Network Drive Mapping - CairoGO</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Novell_Map_CairoGO.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Novell Network Drive Mapping - CairoPlant(old)</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Novell_Map_CairoPlant_old.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Novell Network Drive Mapping - CairoPlant</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Novell_Map_CairoPlant.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Novell Network Drive Mapping - DammamPlant</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Novell_Map_DammamPlant.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Novell Network Drive Mapping - DubaiGO</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Novell_Map_DubaiGO.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Novell Network Drive Mapping - JeddahGO</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Novell_Map_JeddahGO.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Novell Network Drive Mapping - JeddahPlant</name>
+		<file>E:\Dropbox\stuff_done_@Work\logmein_scripts\Novell_Map_JeddahPlant.cmd</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+</scripts>
